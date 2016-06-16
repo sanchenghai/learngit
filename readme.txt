@@ -11,3 +11,5 @@ Bug branch use to stash. Very useful...
 =======
 2015-11-24.Try fetch.Fetch do not merge.And then??
 >>>>>>> 4e222af526b851b13d5b4ef1f4bbe0235b6d5a48
+
+conclusion: can not change a same file. 2016-06-16
